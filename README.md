@@ -12,3 +12,6 @@ To run the script:
 
 ```bash
 python3 port_scanner.py <IP_ADDRESS> -p <PORT_RANGE>
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
